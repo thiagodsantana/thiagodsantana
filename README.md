@@ -1,3 +1,4 @@
+## Olá, meu nome é Thiago Darlei!
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -5,6 +6,20 @@
 - 💼 Trabalhando com .NET no Banco Carrefour.
 
 <br/>
+
+### 🏆 GitHub Profile
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=thiagodsantana&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ## Onde me encontrar
 
