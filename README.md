@@ -27,17 +27,12 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <br/>
 
-<a href="https://github.com/thiagodsantana" title="Perfil do Thiago Santana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodsantana&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodarlei/)]((https://www.linkedin.com/in/thiagodarlei/))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodarlei/)](https://www.linkedin.com/in/thiagodarlei/)
 [![Gmail Badge](https://img.shields.io/badge/-thiago.darley@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.darley@gmail.com)](mailto:thiago.darley@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/thiagodsantana(https://github.com/thiagodsantana))
