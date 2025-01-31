@@ -7,20 +7,6 @@
 
 <br/>
 
-### 🏆 GitHub Profile
-
-<p align="left">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=thiagodsantana"
-    />
-  </a>
-</p>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-thiagodsantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodarlei/)](https://www.linkedin.com/in/thiagodarlei/)
