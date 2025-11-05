@@ -22,24 +22,6 @@
 ![FluentAssertions](https://img.shields.io/badge/FluentAssertions-FF4081?logoColor=white)
 
 ---
-
-### 💼 Portfólio e Repositórios
-| Projeto | Descrição |
-|---------|-----------|
-| **GrpcMsg** | Demonstração de gRPC em .NET para comunicação entre serviços |
-| **GraphQLConsig** | Integração GraphQL para consultas e mutações |
-| **CsharpAspirePubSub** | Processamento de empréstimos com Google Pub/Sub |
-| **UnitTesting** | Testes unitários e de integração para APIs .NET |
-| **TesteCargaK6** | Testes de carga e performance usando K6 |
-| **CSharpCachingLogging** | Implementação de caching e logging |
-| **ORMs** | Comparativo de ORMs (EF Core x Dapper) com benchmarks |
-| **SignalR** | Comunicação em tempo real entre servidor e clientes |
-| **NewsCSharp** | Catálogo de novidades e exemplos práticos de C# |
-
-> Para todos os repositórios: [GitHub](https://github.com/thiagodsantana)
-
----
-
 ### 📫 Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-thiagodsantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodarlei/)](https://www.linkedin.com/in/thiagodarlei/)  
 [![Gmail Badge](https://img.shields.io/badge/-thiago.darley@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.darley@gmail.com)](mailto:thiago.darley@gmail.com)
@@ -49,7 +31,6 @@
 ### 📊 GitHub Stats
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagodsantana&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodsantana&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagodsantana&theme=radical)
 
 ---
 
