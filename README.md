@@ -1,10 +1,10 @@
 ## 👋 Olá, meu nome é Thiago Darlei!
 
 ### Sobre mim
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
-- 🎓 Pós-Graduação em Engenharia de Software na Estácio.  
-- 💼 Trabalhando com **.NET** no Banco Carrefour.  
-- ⚡ Foco em **microsserviços, APIs, testes automatizados, performance e arquitetura distribuída**.
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
+🎓 Pós-Graduação em Engenharia de Software na Estácio.  
+💼 Trabalhando com **.NET** no Banco Carrefour.  
+⚡ Foco em **microsserviços, APIs, testes automatizados, performance e arquitetura distribuída**.
 
 ---
 
