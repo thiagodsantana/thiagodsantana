@@ -13,7 +13,6 @@
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-7.0-blue?logo=entityframework)
 ![gRPC](https://img.shields.io/badge/gRPC-89E0F5?logo=grpc)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D4?logo=signalr)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
 ![K6](https://img.shields.io/badge/K6-1D9BFF?logo=k6)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
