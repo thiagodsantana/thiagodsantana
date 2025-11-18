@@ -9,7 +9,6 @@
 ---
 
 ### 🛠 Tecnologias e Skills
-![C#](https://img.shields.io/badge/C%23-100%25-blue?logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet)
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-7.0-blue?logo=entityframework)
 ![gRPC](https://img.shields.io/badge/gRPC-89E0F5?logo=grpc)
@@ -19,7 +18,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?logo=xunit)
-![FluentAssertions](https://img.shields.io/badge/FluentAssertions-FF4081?logoColor=white)
 
 ---
 
